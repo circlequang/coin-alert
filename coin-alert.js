@@ -3,9 +3,9 @@ var Push = require('pushover-notifications');
 
 const PERIOD = 1800; // unit is seconds, e.g. 1800s = 30 minutes
 const PER_ALRT = 0.01;
-const PUSHOVER_USER = 'uobpbh3ksdsuwks46rirpr341i4rwk';
-const PUSHOVER_TOKEN = 'akxp92epvfppidmr7hrnuq69g9fmbm';
-const PUSHOVER_DEVICE = 'redmi8';
+const PUSHOVER_USER = 'XXXXXXXXXXXX';
+const PUSHOVER_TOKEN = 'XXXXXXXXXXXXX';
+const PUSHOVER_DEVICE = 'XXXXXX';
 
 let _pairList = [
     'btcusdt',
